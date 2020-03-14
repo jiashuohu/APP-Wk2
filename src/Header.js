@@ -15,8 +15,9 @@ const styles = StyleSheet.create({
         backgroundColor: "#FFFFFF",
         justifyContent: "center",
         alignItems: "center",
-        height: 90,
-        paddingTop: 30,
+        // height: 90,
+        paddingTop: 50,
+        paddingBottom: 35,
         elevation: 2,
     },
     artistTextStyle: {
