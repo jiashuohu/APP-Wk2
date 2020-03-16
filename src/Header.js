@@ -6,6 +6,7 @@ const Header = () => {
         <View style={styles.headerStyle}>
             <Text style={styles.artistTextStyle}>米津玄師　４thアルバム</Text>
             <Text style={styles.albumTextStyle}>BOOTLEG</Text>
+            
         </View>
     )
 }
